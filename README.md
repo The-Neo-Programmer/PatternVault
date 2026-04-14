@@ -1,4 +1,4 @@
-# Open Pattern Repo
+# UI 101 for Devs
 
 A collection of cleanly extracted, framework-agnostic UI patterns from various websites.
 
