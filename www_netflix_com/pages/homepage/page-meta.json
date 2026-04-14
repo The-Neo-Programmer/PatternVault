@@ -1,0 +1,10 @@
+{
+  "url": "https://www.netflix.com",
+  "domain": "www_netflix_com",
+  "pageType": "unknown",
+  "crawlTimestamp": "2026-04-14T14:25:43.210Z",
+  "viewportProfiles": [
+    "desktop"
+  ],
+  "complianceStatus": "compliant"
+}
