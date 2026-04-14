@@ -1,0 +1,61 @@
+{
+  "nodeType": "body",
+  "role": "body",
+  "bounds": {
+    "x": 0,
+    "y": 0,
+    "width": 1265,
+    "height": 720
+  },
+  "styles": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "color": "rgb(34, 34, 34)",
+    "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, BlinkMacSystemFont, Roboto, \"Helvetica Neue\", sans-serif",
+    "fontSize": "14px",
+    "padding": "0px",
+    "margin": "0px",
+    "borderRadius": "0px"
+  },
+  "children": [
+    {
+      "nodeType": "div",
+      "role": "div",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1265,
+        "height": 2060.203125
+      },
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(34, 34, 34)",
+        "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, BlinkMacSystemFont, Roboto, \"Helvetica Neue\", sans-serif",
+        "fontSize": "14px",
+        "padding": "0px",
+        "margin": "0px",
+        "borderRadius": "0px"
+      },
+      "children": [
+        {
+          "nodeType": "div",
+          "role": "div",
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 1265,
+            "height": 2060.203125
+          },
+          "styles": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(34, 34, 34)",
+            "fontFamily": "\"Airbnb Cereal VF\", Circular, -apple-system, BlinkMacSystemFont, Roboto, \"Helvetica Neue\", sans-serif",
+            "fontSize": "14px",
+            "padding": "0px",
+            "margin": "0px",
+            "borderRadius": "0px"
+          }
+        }
+      ]
+    }
+  ]
+}
