@@ -1,4 +1,4 @@
-# www.NETFLIX.com Patterns
+# NETFLIX Patterns
 
 ## Developer Instructions
 This folder contains the UI patterns extracted from www_netflix_com. The `pages` folder contains the hierarchical DOM structure and computed styles (colors, layout) mapping to W3C Design Tokens.
